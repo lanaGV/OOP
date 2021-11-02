@@ -1,0 +1,14 @@
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.AssemblyReference.cache
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\ymoro\OneDrive\Рабочий стол\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
